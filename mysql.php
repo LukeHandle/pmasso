@@ -9,6 +9,8 @@ phpMyAdmin sits at https://admin.example.com/db/ and this script sets appropriat
 
 Access this at /mysql.php?host=mysql_hostname1
 
+Forked by JamesH in ~2016 as yet still working on this ideas
+
 */
 
 if(!isset($_GET['host'])) {
